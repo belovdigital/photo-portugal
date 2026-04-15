@@ -120,7 +120,7 @@ We publish guides, tips, and inspiration for traveling in Portugal:
 
 - **Website:** [photoportugal.com](https://photoportugal.com)
 - **iOS App:** [App Store](https://apps.apple.com/app/photo-portugal/id6761375811)
-- **Instagram:** [@photoportugal](https://instagram.com/photoportugal.pt)
+- **Instagram:** [@photoportugal_com](https://instagram.com/photoportugal_com)
 - **Email:** info@photoportugal.com
 
 ## License
