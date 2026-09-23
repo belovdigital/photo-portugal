@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Photo Portugal",
+  "url": "https://photoportugal.com",
+  "logo": "https://photoportugal.com/logo-icon.png",
+  "description": "Photo Portugal is a marketplace connecting travelers with professional vacation photographers across Portugal. Travelers can browse verified photographer portfolios, read real reviews, compare prices, and book photoshoots online with instant confirmation. Photographers are vetted for quality and professionalism.",
+  "areaServed": {
+    "@type": "Country",
+    "name": "Portugal"
+  },
+  "email": "info@photoportugal.com",
+  "sameAs": [
+    "https://instagram.com/photoportugal_com",
+    "https://www.facebook.com/photoportugalofficial",
+    "https://www.linkedin.com/company/photoportugal",
+    "https://photospain.co",
+    "https://photoitaly.co",
+    "https://photogreece.co",
+    "https://photofrance.co",
+    "https://photoiceland.co",
+    "https://photoaustria.co",
+    "https://photojapan.co",
+    "https://apps.apple.com/app/photo-portugal/id6761375811"
+  ],
+  "knowsLanguage": [
+    "en",
+    "pt",
+    "de",
+    "es",
+    "fr"
+  ]
+}

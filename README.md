@@ -1,130 +1,107 @@
 <p align="center">
-  <a href="https://photoportugal.com">
-    <img src="https://photoportugal.com/logo-icon.png" width="80" height="80" alt="Photo Portugal" />
-  </a>
+  <a href="https://photoportugal.com"><img src="https://photoportugal.com/logo-icon.png" width="80" height="80" alt="Photo Portugal" /></a>
 </p>
 
 <h1 align="center">Photo Portugal</h1>
 
 <p align="center">
-  <strong>Vacation photography marketplace for Portugal</strong><br>
-  Connecting tourists with hand-picked local photographers
+  <strong>Vacation photographers for travellers in Portugal</strong><br>
+  Hand-picked local photographers, booked online in minutes
 </p>
 
 <p align="center">
-  <a href="https://photoportugal.com">Website</a> &middot;
-  <a href="https://photoportugal.com/photographers">Browse Photographers</a> &middot;
-  <a href="https://photoportugal.com/locations">Locations</a> &middot;
-  <a href="https://photoportugal.com/blog">Blog</a> &middot;
-  <a href="https://apps.apple.com/app/photo-portugal/id6761375811">iOS App</a>
+  <a href="https://photoportugal.com">Website</a> &middot; <a href="https://photoportugal.com/photographers">Photographers</a> &middot; <a href="https://photoportugal.com/locations">Locations</a> &middot; <a href="https://photoportugal.com/blog">Blog</a> &middot; <a href="https://apps.apple.com/app/photo-portugal/id6761375811">iOS App</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/photographers-22+-C94536" alt="22+ Photographers" />
-  <img src="https://img.shields.io/badge/locations-25+-2563EB" alt="25+ Locations" />
-  <img src="https://img.shields.io/badge/countries-30+-16A34A" alt="30+ Countries" />
-  <img src="https://img.shields.io/badge/platform-web%20%2B%20iOS-black" alt="Web + iOS" />
+  <img src="https://img.shields.io/badge/photographers-57-C94536" alt="57 photographers" />
+  <img src="https://img.shields.io/badge/locations-43-2563EB" alt="43 locations" />
+  <img src="https://img.shields.io/badge/reviews-718%20%C2%B7%205%2F5-16A34A" alt="718 reviews" />
+  <img src="https://img.shields.io/badge/languages-5-6B7280" alt="5 languages" />
 </p>
 
 ---
 
 ## What is Photo Portugal?
 
-[Photo Portugal](https://photoportugal.com) is a marketplace that connects tourists visiting Portugal with verified local photographers for professional vacation photoshoots.
+[Photo Portugal](https://photoportugal.com) is a marketplace that connects travellers visiting Portugal with 57 hand-picked local photographers for vacation photoshoots: couples, proposals, honeymoons, families, solo travellers, elopements and weddings across 43 places. Every photographer is approved personally, and 718 reviews come from real bookings.
 
-Whether you're a couple exploring [Lisbon](https://photoportugal.com/photographers/location/lisbon), a family on holiday in the [Algarve](https://photoportugal.com/photographers/location/algarve), planning a [proposal in Sintra](https://photoportugal.com/photographers/location/sintra), or a solo traveler in [Porto](https://photoportugal.com/photographers/location/porto) — we match you with the perfect photographer.
+## How it works
 
-## How It Works
+1. **Browse** — explore [photographer portfolios](https://photoportugal.com/photographers) and real reviews by place and type of shoot
+2. **Book** — choose a package and a date; pay securely online, and the money stays protected until your photos are delivered
+3. **Shoot** — meet your photographer at the location; they guide you through the session
+4. **Receive** — edited high-resolution photos arrive in a private online gallery
 
-1. **Browse** — Explore [photographer portfolios](https://photoportugal.com/photographers) across 25+ locations in Portugal
-2. **Book** — Choose a package, pick your date, and book securely online
-3. **Shoot** — Meet your photographer and enjoy a relaxed, fun session
-4. **Receive** — Get your professionally edited photos delivered to a private gallery
+More on the [how it works](https://photoportugal.com/how-it-works) page.
 
-Learn more on our [How It Works](https://photoportugal.com/how-it-works) page.
+## Pricing
 
-## Locations
+Sessions from €299. Quick Booking — Photo Portugal picks a vetted photographer for you for any listed place and any date — from €299 all-in for one hour. The price a client sees is the final price: nothing is added at checkout, and the money is held until the photos are delivered.
 
-We cover all major destinations across Portugal:
+## Places
 
-| Location | Highlights |
-|----------|-----------|
-| [Lisbon](https://photoportugal.com/photographers/location/lisbon) | Alfama, Belém, Tram 28, Miradouros |
-| [Porto](https://photoportugal.com/photographers/location/porto) | Ribeira, Dom Luís Bridge, Douro Valley |
-| [Algarve](https://photoportugal.com/photographers/location/algarve) | Ponta da Piedade, Lagos, Albufeira |
-| [Sintra](https://photoportugal.com/photographers/location/sintra) | Pena Palace, Regaleira, Monserrate |
-| [Cascais](https://photoportugal.com/photographers/location/cascais) | Boca do Inferno, beaches, old town |
+| Place | Region |
+|-------|--------|
+| [Lisbon](https://photoportugal.com/locations/lisbon) | Greater Lisbon |
+| [Sintra](https://photoportugal.com/locations/sintra) | Greater Lisbon |
+| [Cascais](https://photoportugal.com/locations/cascais) | Greater Lisbon |
+| [Costa da Caparica](https://photoportugal.com/locations/caparica) | Greater Lisbon |
+| [Ericeira](https://photoportugal.com/locations/ericeira) | Greater Lisbon |
+| [Almada](https://photoportugal.com/locations/almada) | Greater Lisbon |
+| [Setubal](https://photoportugal.com/locations/setubal) | Greater Lisbon |
+| [Comporta](https://photoportugal.com/locations/comporta) | Greater Lisbon |
 
-[View all locations →](https://photoportugal.com/locations)
+[All places →](https://photoportugal.com/locations)
 
-## Photoshoot Types
+## Types of photoshoot
 
-- [Couples](https://photoportugal.com/photoshoots/couples) — Romantic sessions for couples and honeymoons
-- [Family](https://photoportugal.com/photoshoots/family) — Fun, relaxed family photo sessions
-- [Proposal](https://photoportugal.com/photoshoots/proposal) — Secret proposal photography
-- [Solo](https://photoportugal.com/photoshoots/solo) — Solo traveler portraits
-- [Elopement](https://photoportugal.com/photoshoots/elopement) — Intimate elopement coverage
-- [Wedding](https://photoportugal.com/photoshoots/wedding) — Destination wedding photography
+- [Couples](https://photoportugal.com/photoshoots/couples)
+- [Family](https://photoportugal.com/photoshoots/family)
+- [Proposal](https://photoportugal.com/photoshoots/proposal)
+- [Engagement](https://photoportugal.com/photoshoots/engagement)
+- [Honeymoon](https://photoportugal.com/photoshoots/honeymoon)
+- [Solo Travel](https://photoportugal.com/photoshoots/solo)
+- [Elopement](https://photoportugal.com/photoshoots/elopement)
+- [Friends Trip](https://photoportugal.com/photoshoots/friends)
+- [Wedding](https://photoportugal.com/photoshoots/wedding)
+- [Maternity](https://photoportugal.com/photoshoots/maternity)
 
-[View all photoshoot types →](https://photoportugal.com/photoshoots)
+[All types →](https://photoportugal.com/photoshoots)
 
-## Tech Stack
+## Languages
 
-Photo Portugal is built with modern technologies:
+Booking and support in English, Portuguese, German, Spanish, French.
 
-- **Frontend:** [Next.js](https://nextjs.org/) 16 (App Router, React Server Components)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/) with custom design system
-- **Database:** PostgreSQL with parameterized queries
-- **Payments:** [Stripe Connect](https://stripe.com/connect) (escrow until client approval)
-- **i18n:** [next-intl](https://next-intl-docs.vercel.app/) (English + Portuguese)
-- **Mobile:** React Native (Expo) — [iOS App](https://apps.apple.com/app/photo-portugal/id6761375811)
-- **Hosting:** DigitalOcean with Nginx, PM2, Let's Encrypt SSL
-- **Image Processing:** Sharp for optimization, local storage + CDN
+## For photographers
 
-## For Photographers
+Professional photographers based in Portugal can [apply to join](https://photoportugal.com/for-photographers/join). Listing is free; the platform earns a commission only when a booking comes through it. Details on the [pricing page](https://photoportugal.com/for-photographers/pricing).
 
-Are you a photographer based in Portugal? [Join our network](https://photoportugal.com/join) and get access to international clients.
+## For AI assistants and agents
 
-**What we offer:**
-- Exposure to tourists from 30+ countries
-- Secure payments via Stripe
-- No upfront costs — commission-based model
-- Marketing and Google Ads campaigns driving traffic to your profile
-- Mobile app for instant booking notifications
+Photo Portugal publishes machine-readable descriptions of the service for assistants that help people plan trips:
 
-[Apply to join →](https://photoportugal.com/join)
+- `https://photoportugal.com/llms.txt` — plain-text overview of the service, places, prices and how to book
+- `https://photoportugal.com/llms.json` — the same as machine-readable JSON
+- Every public page is also served as Markdown: request it with the header `Accept: text/markdown`, or fetch `https://photoportugal.com/api/agent-markdown/<path>`
+- Agent booking API (MCP): `https://mcp.norteira.com` — documentation at https://norteira.com/mcp
 
-## For Travelers
+## Sister sites
 
-Planning a trip to Portugal? Book a photoshoot and bring home professional memories.
-
-- Browse [real portfolios and reviews](https://photoportugal.com/photographers)
-- Prices from €150
-- Secure payment — money held until you approve your photos
-- Free cancellation
-- Photos delivered within 5-7 days
-
-[Find your photographer →](https://photoportugal.com/find-photographer)
-
-## Blog
-
-We publish guides, tips, and inspiration for traveling in Portugal:
-
-- [Best Photo Spots in Lisbon](https://photoportugal.com/blog)
-- [Planning a Proposal in Portugal](https://photoportugal.com/blog)
-- [What to Wear for Your Photoshoot](https://photoportugal.com/blog)
-
-[Read the blog →](https://photoportugal.com/blog)
+The same service runs in 7 other countries: [Photo Spain](https://photospain.co), [Photo Italy](https://photoitaly.co), [Photo Greece](https://photogreece.co), [Photo France](https://photofrance.co), [Photo Iceland](https://photoiceland.co), [Photo Austria](https://photoaustria.co), [Photo Japan](https://photojapan.co).
 
 ## Links
 
 - **Website:** [photoportugal.com](https://photoportugal.com)
-- **iOS App:** [App Store](https://apps.apple.com/app/photo-portugal/id6761375811)
-- **Instagram:** [@photoportugal_com](https://instagram.com/photoportugal_com)
+- **iOS app:** [App Store](https://apps.apple.com/app/photo-portugal/id6761375811)
+- **Instagram:** https://instagram.com/photoportugal_com
+- **Facebook:** https://www.facebook.com/photoportugalofficial
+- **Linkedin:** https://www.linkedin.com/company/photoportugal
+- **Help centre:** https://photoportugal.com/support
 - **Email:** info@photoportugal.com
 
-## License
+## About this repository
 
-This repository contains the public documentation and assets for Photo Portugal. The platform source code is proprietary.
+This repository holds the public profile of Photo Portugal: what the service is, where it operates and how to reach it. The platform's source code is proprietary and not published here.
 
-© 2026 Photo Portugal by BLV Digital Group. All rights reserved.
+© 2026 Photo Portugal. All rights reserved.
